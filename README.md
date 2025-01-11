@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 About Me:
-I'm a **Fullstack Developer** with a passion for creating efficient, scalable, and user-centered solutions. With experience in agile teams, I've honed my skills in **React**, **Next.js**, **TypeScript**, and backend technologies like **NestJS** and **GraphQL**. My adaptability and commitment to quality drive me to deliver high-impact software.
+I'm a **Fullstack Developer** with a passion for creating efficient, scalable, and user-centered solutions. With experience in agile teams, I've honed my skills in **React**, **Next.js**, **TypeScript**, and backend technologies like **NestJS**, **GraphQL**, and **TypeORM**. My adaptability and commitment to quality drive me to deliver high-impact software.
 
 - 🌍 Based in **Benidorm, Spain**  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jeankarlo-santana-romero-2bb0a92a8/)  
@@ -13,7 +13,7 @@ I'm a **Fullstack Developer** with a passion for creating efficient, scalable, a
 
 ---
 
-### 💼 Professional Experience:
+### 💼 Latest Experiences:
 
 **Biomas**  
 _Fullstack Developer (Oct 2023 – Dec 2024)_  
@@ -31,24 +31,22 @@ _Frontend Developer (Jan 2023 – May 2024)_
 ---
 
 ### 📋 Tech Stack:
-| Category                  | Skills |
-|---------------------------|------------------------------------------------------------|
+| Category                  | Skills                                                                                 |
+|---------------------------|----------------------------------------------------------------------------------------|
 | **Languages**             | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) |
-| **Frameworks & Libraries**| ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) |
+| **Frameworks & Libraries**| ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Sanity.io](https://img.shields.io/badge/sanity.io-%23F03C02.svg?style=for-the-badge&logo=sanity&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%230080FF.svg?style=for-the-badge&logo=strapi&logoColor=white) |
+| **Backend**               | ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![TypeORM](https://img.shields.io/badge/TypeORM-%23FFDD00.svg?style=for-the-badge&logo=typeorm&logoColor=black) |
 | **Databases**             | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
-| **Other Tools**           | ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Sanity](https://img.shields.io/badge/sanity.io-%23F03C02.svg?style=for-the-badge&logo=sanity&logoColor=white) |
+| **Other Tools**           | ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![MinIO](https://img.shields.io/badge/MinIO-%23FF2020.svg?style=for-the-badge&logo=minio&logoColor=white) |
 
 ---
 
-### 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=JeanCharlie&show_icons=true&theme=radical&include_all_commits=true" width="70%"></img>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCharlie&theme=radical&layout=compact" width="70%"></img>  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JeanCharlie" width="70%"></img>
+### 🤝 Soft Skills:
+| Skill                | Description                                                                                 |
+|----------------------|---------------------------------------------------------------------------------------------|
+| **Fast Learner**     | Quick to understand and apply new technologies and frameworks.                              |
+| **Team Player**      | Strong collaborator who values effective communication and collective problem-solving.      |
+| **Adaptability**     | Thrives in dynamic environments, adjusting easily to new challenges and tools.              |
+| **Problem Solving**  | Analytical thinker with a knack for identifying and addressing complex technical issues.    |
+| **Abstract Thinking**| Capable of visualizing and planning complex solutions with a focus on scalability.          |
 
----
-
-### 📫 Let's Connect:
-<p>
-    <a href="https://www.linkedin.com/in/jeankarlo-santana-romero-2bb0a92a8/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:santanajeankarlo@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
